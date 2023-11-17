@@ -10,11 +10,11 @@ Next-generation sequencing (NGS), also called high-throughput sequencing technol
 * Clinical Diagnostics: NGS has applications in clinical settings for diagnosing genetic disorders, identifying disease-causing mutations, and guiding treatment decisions based on an individual's genetic profile.
 * Evolutionary Biology: NGS is employed to study the evolutionary relationships between species, populations, or individuals by comparing their genetic sequences.
 
-<img width="951" alt="1" src="https://github.com/programweb/NextGenSeq/assets/12736699/9e81b58f-247e-4fe7-a1d3-18a2d70d933d">
+
+<img width="951" alt="aaa" src="https://github.com/programweb/NextGenSeq/assets/12736699/c21addeb-cd7e-4b28-a1e1-5c81c9410f0f">
+
+![bbb](https://github.com/programweb/NextGenSeq/assets/12736699/f1799bf7-9778-451c-87cf-2fb5099815d9)
+
+![ccc](https://github.com/programweb/NextGenSeq/assets/12736699/7fd63708-5690-47b7-b08e-edc446a29607)
 
 
-![2](https://github.com/programweb/NextGenSeq/assets/12736699/35666d28-91ba-4ef7-ae0c-dbb16c6efaa8)
-
-
-
-![4](https://github.com/programweb/NextGenSeq/assets/12736699/ef0a02de-f3f9-4790-9555-d76aaeda2bd5)
